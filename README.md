@@ -9,7 +9,7 @@ Check out the demo [YouTube](https://www.youtube.com/watch?v=zMHgBRRrxiI)
 2. cd LiteDBAPI
 3. edit [LiteDBAPI.cs](./LiteDBAPI.cs)
     - Define POCOs "Plain Old CLR Objects" your tool will be handling
-    - Statically create collections tieing each POCO to a collection
+    - Statically create collections associating each POCO to a collection
 4. run dotnet build
 5. cd bin\Debug\netstandard2.0
 6. Ensure LiteDB.dll and LiteDBAPI.dll both accompany your .ps1 in a single directory
