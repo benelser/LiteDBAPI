@@ -18,10 +18,10 @@ This project illustates consuming the [LiteDB](https://www.litedb.org/) project 
 Reading DB with [LiteDB Studio](https://github.com/mbdavid/LiteDB.Studio) corrupts the db. If you need to look at DB make sure you copy DB file and read copied version in LiteDB studio.
 
 ### Build enivornment 
-PSVersion                      6.2.3
-PSEdition                      Core
-GitCommitId                    6.2.3
-OS                             Microsoft Windows 10.0.18362
-Platform                       Win32NT
-WSManStackVersion              3.0
-dotnet version                 3.0.100-preview9-014004
+* PSVersion                      6.2.3
+* PSEdition                      Core
+* GitCommitId                    6.2.3
+* OS                             Microsoft Windows 10.0.18362
+* Platform                       Win32NT
+* WSManStackVersion              3.0
+* dotnet version                 3.0.100-preview9-014004
