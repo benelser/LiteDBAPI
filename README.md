@@ -1,6 +1,7 @@
 # LiteDBAPI
 
 This project illustates consuming the [LiteDB](https://www.litedb.org/) project from within PowerShell.
+![Alt Text](./LiteDBPowerShellWrapper.gif)
 
 ## How to build and edit [LiteDBAPI.cs](./LiteDBAPI.cs)
 1. git clone https://github.com/benelser/LiteDBAPI.git
