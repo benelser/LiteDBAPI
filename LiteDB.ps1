@@ -19,6 +19,4 @@ $barkers = $controller.Col.Find([Query]::Contains("LastName", "Bar"))
 $adams
 $barkers
 
-# Known bug reading DB with LiteDB Studio. If need to look at DB make sure you copy DB file and read copied version in studio
-# Ensure you call the Dispose after each operation
 $controller.DB.Dispose()
