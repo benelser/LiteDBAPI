@@ -1,0 +1,10 @@
+C:\Users\benja\Documents\PowerShell\LiteDBAPI\bin\Debug\netstandard2.0\LiteDBAPI.deps.json
+C:\Users\benja\Documents\PowerShell\LiteDBAPI\bin\Debug\netstandard2.0\LiteDBAPI.dll
+C:\Users\benja\Documents\PowerShell\LiteDBAPI\bin\Debug\netstandard2.0\LiteDBAPI.pdb
+C:\Users\benja\Documents\PowerShell\LiteDBAPI\bin\Debug\netstandard2.0\LiteDB.dll
+C:\Users\benja\Documents\PowerShell\LiteDBAPI\obj\Debug\netstandard2.0\LiteDBAPI.csprojAssemblyReference.cache
+C:\Users\benja\Documents\PowerShell\LiteDBAPI\obj\Debug\netstandard2.0\LiteDBAPI.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\PowerShell\LiteDBAPI\obj\Debug\netstandard2.0\LiteDBAPI.AssemblyInfo.cs
+C:\Users\benja\Documents\PowerShell\LiteDBAPI\obj\Debug\netstandard2.0\LiteDBAPI.csproj.CopyComplete
+C:\Users\benja\Documents\PowerShell\LiteDBAPI\obj\Debug\netstandard2.0\LiteDBAPI.dll
+C:\Users\benja\Documents\PowerShell\LiteDBAPI\obj\Debug\netstandard2.0\LiteDBAPI.pdb
